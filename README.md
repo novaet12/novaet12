@@ -8,9 +8,6 @@ Currently: Breaking things (ethically) and building smarter solutions.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
-## 🔥 Featured Projects  
-- **[prodigy]((https://github.com/novaet12/PRODIGY_ML_01))**: a project i made fore online iternship(prediction the prices of houses).  
-- **[election system](https://github.com/novaet12/election-sys)**: a project for my OOP class.  
 
 ## 🌱 What I’m Learning  
 - Rust for low-level security tools.  
