@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! I'm Nahom Tewodros 👋 </h1>
-<h3 align="center">🚀 fullstack Developer | MERN Stack, Next.js , AWS | Open Source ♥   🚀</h3>
+<h3 align="center">🚀 fullstack Developer | MERN Stack, Next.js , Flutter ,Golang | Open Source ♥   🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🎓 &nbsp; Studying Electrical and Computer Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 💼 &nbsp; I’m currently working on Full Stack Development and Mobile Application projects.
   - 🌱 &nbsp; Learning more about Backend Architectures,Database Design and Frontend Developement.
   - ✍️ &nbsp; Pursuing cybersecurity and Gaming as hobbies/side hustles.  
 </div> 
