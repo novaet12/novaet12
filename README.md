@@ -5,10 +5,10 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎓 &nbsp; Studying Electrical and Computer Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development and Mobile Application projects.
+  - 🎓 &nbsp; Studying Electrical and Computer Engineering Currently.
+  - 💼 &nbsp; I’m a Fullstack Developer passionate about building modern, intelligent, and efficient software solutions — from sleek mobile apps to powerful web platforms and autonomous AI systems.
   - 🌱 &nbsp; Learning more about Backend Architectures,Database Design and Frontend Developement.
-  - ✍️ &nbsp; Pursuing cybersecurity and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing cybersecurity ,Web security and Gaming as hobbies/side hustles.  
 </div> 
 </div>
 
