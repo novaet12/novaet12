@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **different fullstack practice projects** 
 
-- 🌱 I’m currently learning **Flutter,Nuxt js and vue js**
+- 🌱 I’m currently learning **Flutter ,Nuxt js and vue js**
 
-- 👯 I’m looking to collaborate on **open source projects that will up my skills**
+- 👯 I’m looking to collaborate on **open source projects that will up  my skills**
 
 - 👨‍💻 All of my projects are available at [https://nahomtewodros.vercel.app/](https://nahomtewodros.vercel.app/)
 
