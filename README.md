@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahom Tewodros</h1>
 <h3 align="center">A passionate fullstack developer Specializing in Agentic AI & Multi-Agent Systems developer from ethiopia🇪🇹</h3>
 
-- 🔭 I’m currently working on **different fullstack practice projects** 
+- 🔭 I’m currently working on **different fullstack practice projects**    
 
 - 🌱 I’m currently learning **Flutter ,Nuxt js and vue js**
 
